@@ -1,0 +1,20 @@
+.boxes{
+    display: flex;
+    flex-direction: column;
+}
+
+.box1{
+    background-color: #1f2937;
+}
+
+.box2{
+    background-color: #ffffff;
+}
+
+.box3{
+    background-color: #efe7eb;
+}
+
+.box4{
+    background-color: #1f2937;
+}
