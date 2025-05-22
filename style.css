@@ -188,3 +188,43 @@ button{
     text-align: center;
     padding: 30px;
 }
+
+#signupbutton{
+    border-color: white;
+    border-width: 2px;
+    padding: 10px;
+    justify-content: center;
+}
+
+.box4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bluebox{
+    display: flex;
+    background-color: #3882f6;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    padding: 20px;
+    width: 900px;
+    height:100px;
+    margin: 60px;
+}
+
+.actionword{
+    color: #f9faf8;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.signup{
+    color: #f9faf8;
+}
+
+.text{
+    padding-right: 70px;
+}
+
