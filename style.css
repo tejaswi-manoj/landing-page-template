@@ -25,7 +25,11 @@ body {
 }
 
 .box4{
-    background-color: #1f2937;
+    background-color: #ffffff;
+}
+
+.box5{
+    background-color: #1F2937;
 }
 
 .header{
@@ -166,6 +170,7 @@ button{
 .author{
     text-align: right;
     font-weight: bolder;
+    padding-top: 20px;
 }
 
 .whole{
@@ -173,7 +178,13 @@ button{
     flex-direction: column;
     justify-content: center;
     align-content: center;
-    width:800px;
+    width: 700px;
     height: 300px;
+    padding: 10px;
 }
 
+.box5{
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
